@@ -1,0 +1,4 @@
+baseURL = 'https://ponderings.xyz'
+languageCode = 'en-us'
+title = 'Ponderings'
+theme = 'lugo'
