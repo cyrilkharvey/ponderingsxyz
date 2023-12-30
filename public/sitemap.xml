@@ -2,10 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ponderings.xyz/categories/</loc>
+    <loc>https://ponderings.xyz/blog/cmarie/</loc>
+    <lastmod>2023-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ponderings.xyz/blog/</loc>
+    <lastmod>2023-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ponderings.xyz/tags/literallyme/</loc>
+    <lastmod>2023-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ponderings.xyz/tags/masculine/</loc>
+    <lastmod>2023-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ponderings.xyz/tags/morality/</loc>
+    <lastmod>2023-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ponderings.xyz/tags/philosophy/</loc>
+    <lastmod>2023-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ponderings.xyz/blog/sidecharacter/</loc>
+    <lastmod>2023-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ponderings.xyz/</loc>
+    <lastmod>2023-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ponderings.xyz/tags/story/</loc>
+    <lastmod>2023-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ponderings.xyz/tags/</loc>
+    <lastmod>2023-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ponderings.xyz/categories/</loc>
   </url>
 </urlset>

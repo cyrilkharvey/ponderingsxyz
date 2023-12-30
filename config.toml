@@ -1,4 +1,8 @@
 baseURL = 'https://ponderings.xyz'
 languageCode = 'en-us'
 title = 'Ponderings'
-theme = 'lugo'
+theme = 'cugo'
+
+[params]
+    favicon = /favicon.svg
+    
