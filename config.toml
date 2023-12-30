@@ -4,5 +4,4 @@ title = 'Ponderings'
 theme = 'cugo'
 
 [params]
-    favicon = /favicon.svg
-    
+    favicon = "/favicon.ico"
